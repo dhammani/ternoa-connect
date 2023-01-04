@@ -16,7 +16,7 @@ export default [
                 file: packageJson.main,
                 format: 'cjs',
                 sourcemap: true,
-                name: 'react-ts-lib'
+                name: 'ternoa-connect'
             },
             {
                 file: packageJson.module,
